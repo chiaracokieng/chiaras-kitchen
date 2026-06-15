@@ -43,3 +43,12 @@ If it passes both, it earns a place in the cookbook.
 - **Test Kitchen** — current trials
 - **Archive** — retired recipes, with notes on what broke
 - **Issues** — proposals and ideas in progress → [GitHub Issues](../../issues)
+
+### Issue statuses
+
+| Status | When to use |
+|--------|-------------|
+| **Inbox** | Idea captured with the problem it's trying to solve |
+| **Exploring** | Investigating options |
+| **In Trial** | Active 10-day or 30-day test kitchen phase |
+| **Done** | Added to cookbook or closed without adoption |
