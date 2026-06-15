@@ -1,6 +1,8 @@
 # Chiara's Kitchen
 
-This repo describes how I work: how I set goals, plan my day, manage tasks and projects, take notes, and more. It uses the metaphor of a kitchen, specifically:
+This repo describes my system for getting things done: how I set goals, plan my day, manage tasks and projects, take notes, and more. I treat it as a product — problems come before solutions, and nothing gets added on a whim.
+
+It uses the metaphor of a kitchen, specifically:
 
 - I have a cookbook — a collection of recipes that work for me.
 - I have tools, and I think carefully before adding new ones.
